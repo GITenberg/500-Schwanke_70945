@@ -1,0 +1,32 @@
+_repo: 500-Schwanke_70945
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Trier, Walter
+    gutenberg_agent_id: '56006'
+    url: http://www.gutenberg.org/2009/agents/56006
+  - agent_name: Weisgerber, A.
+    gutenberg_agent_id: '56005'
+    url: http://www.gutenberg.org/2009/agents/56005
+creator:
+  author:
+    agent_name: Roda, Alexander Roda
+    gutenberg_agent_id: '56004'
+    url: http://www.gutenberg.org/2009/agents/56004
+description: ''
+gutenberg_issued: '2023-06-08'
+identifiers:
+  gutenberg: '70945'
+language: de
+pgterms:marc905: 20200523082812rodaroda
+pgterms:marc906: '1922'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bDr. Eysler & Co. A. G., $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 500 Schwänke
+url: http://www.gutenberg.org/ebooks/70945
