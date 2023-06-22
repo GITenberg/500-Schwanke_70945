@@ -8,12 +8,17 @@ contributor:
   - agent_name: Weisgerber, A.
     gutenberg_agent_id: '56005'
     url: http://www.gutenberg.org/2009/agents/56005
+covers:
+- cover_type: archival
+  image_path: 70945-h/images/cover.jpg
 creator:
   author:
     agent_name: Roda, Alexander Roda
     gutenberg_agent_id: '56004'
     url: http://www.gutenberg.org/2009/agents/56004
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70945#500-Schwanke
 gutenberg_issued: '2023-06-08'
 identifiers:
   gutenberg: '70945'
